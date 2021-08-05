@@ -1058,7 +1058,7 @@
             "Project": "Midazolam_Itraconazole_DDI",
             "Simulation": "DDI Treatment Ahonen 1995 Midazolam + Itra 100mg MD",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Ahonen_1995_Treatmen",
+            "ObservedData": "Ahonen_1995_Treatment",
             "Caption": "Midazolam 2",
             "StartTime": 74,
             "TimeUnit": "h",
@@ -2157,7 +2157,7 @@
             {
               "Name": "Mouton_06_200mg_MD_OH_HPBCD-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc ",
               "X": "Mouton_06_200mg_MD_OH_HPBCD|Time ",
-              "Y": "Mouton_06_200mg_MD_OH_HPBCD|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc ",
+              "Y": "Mouton_06_200mg_MD_OH_HPBCD|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -2451,7 +2451,7 @@
             {
               "Name": "xxx_Heykants_89_PO_100mg_SD_OH_(fig 4)-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc ",
               "X": "Heykants_89_PO_100mg_SD_OH_(fig 4)|Time ",
-              "Y": "Heykants_89_PO_100mg_SD_OH_(fig 4)|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc ",
+              "Y": "Heykants_89_PO_100mg_SD_OH_(fig 4)|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -2549,7 +2549,7 @@
             {
               "Name": "Hydroxy_Itraconazole-barone_93_15days_MD_hydroxy-Peripheral Venous Blood-Plasma-Conc ",
               "X": "barone_93_15days_MD_OH|Time ",
-              "Y": "barone_93_15days_MD_OH|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc ",
+              "Y": "barone_93_15days_MD_OH|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 5,
@@ -2560,7 +2560,7 @@
             {
               "Name": "Hydroxy_Itraconazole-barone_93_PO_SD_200mg_fed_OH-Undefined-Plasma-conc ",
               "X": "barone_93_PO_SD_200mg_fed_OH|time ",
-              "Y": "barone_93_PO_SD_200mg_fed_OH|ObservedData|Undefined|Plasma|Hydroxy_Itraconazole|conc ",
+              "Y": "barone_93_PO_SD_200mg_fed_OH|ObservedData|Undefined|Plasma|Hydroxy-Itraconazole|conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -2906,7 +2906,7 @@
             {
               "Name": "Hydroxy_Itraconazole-barone_93_PO_SD_200mg_fasted_OH-Undefined-Plasma-conc ",
               "X": "barone_93_PO_SD_200mg_fasted_OH|time ",
-              "Y": "barone_93_PO_SD_200mg_fasted_OH|ObservedData|Undefined|Plasma|Hydroxy_Itraconazole|conc ",
+              "Y": "barone_93_PO_SD_200mg_fasted_OH|ObservedData|Undefined|Plasma|Hydroxy-Itraconazole|conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
@@ -2990,7 +2990,7 @@
             {
               "Name": "Hydroxy_Itraconazole-Barone98.F05 capsule 200 mg OH-ITZ-Peripheral Venous Blood-Plasma-C_pls ",
               "X": "Barone98.F05 capsule 200 mg OH-ITZ|Time ",
-              "Y": "Barone98.F05 capsule 200 mg OH-ITZ|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|C_pls ",
+              "Y": "Barone98.F05 capsule 200 mg OH-ITZ|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|C_pls ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
@@ -3001,7 +3001,7 @@
             {
               "Name": "Hydroxy_Itraconazole-barone_93_PO_SD_200mg_fed_OH-Undefined-Plasma-conc ",
               "X": "barone_93_PO_SD_200mg_fed_OH|time ",
-              "Y": "barone_93_PO_SD_200mg_fed_OH|ObservedData|Undefined|Plasma|Hydroxy_Itraconazole|conc ",
+              "Y": "barone_93_PO_SD_200mg_fed_OH|ObservedData|Undefined|Plasma|Hydroxy-Itraconazole|conc ",
               "CurveOptions": {
                 "Color": "#6495ED",
                 "LegendIndex": 5,
@@ -3077,7 +3077,7 @@
             {
               "Name": "Templeton_08_PO_MD_100mg_day7_OH-Hydroxy_Itraconazole-Undefined-Plasma-conc ",
               "X": "Templeton_08_PO_MD_100mg_day7_OH|time ",
-              "Y": "Templeton_08_PO_MD_100mg_day7_OH|ObservedData|Undefined|Plasma|Hydroxy_Itraconazole|conc ",
+              "Y": "Templeton_08_PO_MD_100mg_day7_OH|ObservedData|Undefined|Plasma|Hydroxy-Itraconazole|conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -3088,7 +3088,7 @@
             {
               "Name": "Hydroxy_Itraconazole-Templeton_08_PO_MD_100mg_day1_OH-Undefined-Plasma-conc ",
               "X": "Templeton_08_PO_MD_100mg_day1_OH|time ",
-              "Y": "Templeton_08_PO_MD_100mg_day1_OH|ObservedData|Undefined|Plasma|Hydroxy_Itraconazole|conc ",
+              "Y": "Templeton_08_PO_MD_100mg_day1_OH|ObservedData|Undefined|Plasma|Hydroxy-Itraconazole|conc ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -3265,7 +3265,7 @@
             {
               "Name": "Velde_et_al-1996.OH-Itra.100mg_solution fasted-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc",
               "X": "Velde_et_al-1996.OH-Itra.100mg_solution fasted|Time",
-              "Y": "Velde_et_al-1996.OH-Itra.100mg_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc",
+              "Y": "Velde_et_al-1996.OH-Itra.100mg_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc",
               "CurveOptions": {
                 "Color": "#1F497D",
                 "LegendIndex": 8,
@@ -3388,7 +3388,7 @@
             {
               "Name": "Velde_et_al-1996.OH-Itra.100mg_solution-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc(1)",
               "X": "Velde_et_al-1996.OH-Itra.100mg_solution|Time",
-              "Y": "Velde_et_al-1996.OH-Itra.100mg_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc(1)",
+              "Y": "Velde_et_al-1996.OH-Itra.100mg_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc(1)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 5,
@@ -3473,7 +3473,7 @@
             {
               "Name": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fasted-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc",
               "X": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fasted|Time",
-              "Y": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc",
+              "Y": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
@@ -3495,7 +3495,7 @@
             {
               "Name": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fasted-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc",
               "X": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fasted|Time",
-              "Y": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc",
+              "Y": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fasted|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -3580,7 +3580,7 @@
             {
               "Name": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc(1)",
               "X": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution|Time",
-              "Y": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc(1)",
+              "Y": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc(1)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
@@ -3602,7 +3602,7 @@
             {
               "Name": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution-Hydroxy_Itraconazole-Peripheral Venous Blood-Plasma-Conc(1)",
               "X": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution|Time",
-              "Y": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|Conc(1)",
+              "Y": "Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Conc(1)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -3686,7 +3686,7 @@
             {
               "Name": "Hydroxy_Itraconazole-Barone98.Solution 200mg OH-ITZ-Peripheral Venous Blood-Plasma-C_pls ",
               "X": "Barone98.Solution 200mg OH-ITZ|Time ",
-              "Y": "Barone98.Solution 200mg OH-ITZ|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy_Itraconazole|C_pls ",
+              "Y": "Barone98.Solution 200mg OH-ITZ|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|C_pls ",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
